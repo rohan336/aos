@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>web page</title>
+</head>
+<body>
+	<img src="img.jpeg" alt="img">
+</body>
+</html>
